@@ -1,14 +1,6 @@
-# rstudioconf-2018-intro-shiny-rmarkdown
+# intro-rmarkdown
 
-Materials for the "Intro to Shiny and R Markdown" 2-day workshop at [rstudio::conf 2018](https://www.rstudio.com/conference/).
-
----
-
-## Locating the materials
-
-* Option 1 - :cloud: RStudio Cloud: [bit.ly/shiny-rmd-cloud](bit.ly/shiny-rmd-cloud)
-
-* Option 2 - :computer: Local installation: [bit.ly/shiny-rmd-repo](bit.ly/shiny-rmd-repo)
+Adapted from the "Intro to Shiny and R Markdown" for [rstudio::conf 2018](https://www.rstudio.com/conference/). Cut down just to RMarkdown for City of Pittsburgh Analysts.
 
 ---
 
@@ -45,58 +37,14 @@ Materials for the "Intro to Shiny and R Markdown" 2-day workshop at [rstudio::co
   - Templates
   - Parameterized reports
 
-#### :coffee: 15:00 - 15:30: Afternoon break
-
-#### :computer: 15:30 - 17:00: Session 4 - First dip into interactivity
-  - Dashboards
-  - Embedding htmlwidgets in documents
-  - Embedding Shiny apps in documents
-  - Troubleshooting tips + Q & A
-
-### Day 2: February 1
-
-#### :computer: 09:00 - 10:30: Session 1 - Getting started with Shiny
-  - 04 - Getting started with Shiny:
-    - High level view
-    - Anatomy of a Shiny app
-    - UI / Server
-    - File structure
-    - Deploying an app
-
-#### :coffee: 10:30 - 11:00: Morning break
-
-#### :computer: 11:00 - 12:00: Session 2 - Understanding reactivity
-  - 05 - Understanding reactivity:
-    - Reactivity 101
-    - Reactive flow
-    - Implementation
-    - Render functions
-  
-#### :fork_and_knife: 12:00 - 13:00: Lunch
-
-#### :computer: 13:00 - 15:00: Session 3 - Designing UI
-  - Interface builder functions
-  - Tabs
-  - shinythemes
-
-#### :coffee: 15:00 - 15:30: Afternoon break
-
-#### :computer: 15:30 - 17:00: Session 4 - Dashboards
-  - What's in a dashboard?
-  - flexdashboards
-  - Where to go next?
-
----
 
 ## Setup instructions
 
 ### Install
 
 ```
-from_cran <- c("shiny", "rmarkdown", 
-               "DT", "devtools", "flexdashboard", "gapminder",
-               "rticles", "shinydashboard", "shinythemes", 
-               "tidyverse", "tufte", "xaringan")
+from_cran <- c("rmarkdown", "DT", "devtools", "gapminder", 
+               "rticles", "tidyverse", "tufte", "xaringan")
 
 install.packages(from_cran, repos = "http://cran.rstudio.com")
 ```
@@ -104,7 +52,6 @@ install.packages(from_cran, repos = "http://cran.rstudio.com")
 ### Load
 
 ```
-library(shiny)
 library(rmarkdown)
 ... # load the remaining packages similarly
 ```
