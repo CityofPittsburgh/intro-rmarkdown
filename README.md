@@ -4,9 +4,13 @@ Adapted from the "Intro to Shiny and R Markdown" for [rstudio::conf 2018](https:
 
 ---
 
-## Outline
+## Original Author:
+[Mine Cetinkaya-Rundel](https://github.com/mine-cetinkaya-rundel)
 
-### Day 1: January 31
+## Adaptation:
+[Geoffrey Arnold](https://github.com/geoffreylarnold)
+
+## Outline
 
 #### :computer: 09:00 - 10:30: Session 1 - Getting started with Markdown
   - 00 - Welcome: Getting started instructions + motivation + demo
