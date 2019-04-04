@@ -10,6 +10,22 @@ Adapted from the "Intro to Shiny and R Markdown" for [rstudio::conf 2018](https:
 ## Adaptation:
 [Geoffrey Arnold](https://github.com/geoffreylarnold)
 
+## Prep Course Work
+
+To participate students should either bring their own laptop or be prepared to use [RStudio Cloud](https://rstudio.cloud/).
+
+#### Local Setup
+
+- Clone this repository
+- Create Project
+
+#### RStudio Cloud Setup
+
+- Log into [RStudio Cloud](https://rstudio.cloud/)
+- Create a new enviornment
+- Create project from GitHub Repo
+- Paste in the URL for this repo (https://github.com/CityofPittsburgh/intro-rmarkdown)
+
 ## Outline
 
 #### :computer: 09:00 - 10:30: Session 1 - Getting started with Markdown
