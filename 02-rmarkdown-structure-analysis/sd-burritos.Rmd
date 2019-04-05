@@ -1,6 +1,6 @@
 ---
 title: "San Diego Burritos"
-author: "Mine Çetinkaya-Rundel"
+author: "Geoffrey Arnold"
 date: "`r Sys.Date()`"
 output: 
   html_document: 
