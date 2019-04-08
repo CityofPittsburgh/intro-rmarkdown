@@ -53,7 +53,7 @@ To participate students should either bring their own laptop or be prepared to u
 
 ### Day 2
 
-#### :computer: 13:00 - 15:00: Session 3 - Upping your R Markdown game
+#### :computer: 10:00am - 12:00pm: Session 3 - Upping your R Markdown game
   - Tables
   - Bibliography and citation
   - Templates
