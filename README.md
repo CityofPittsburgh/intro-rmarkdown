@@ -18,13 +18,12 @@ To participate students should either bring their own laptop or be prepared to u
 
 - Clone this repository
 - Create Project
+- Find and run script `00-welcome/packages.R`
 
 #### RStudio Cloud Setup
 
-- Log into [RStudio Cloud](https://rstudio.cloud/)
-- Create a new enviornment
-- Create project from GitHub Repo
-- Paste in the URL for this repo (https://github.com/CityofPittsburgh/intro-rmarkdown)
+- Log into [RStudio Cloud](https://rstudio.cloud/spaces/14392/project/296108)
+- Find and run script `00-welcome/packages.R`
 
 ## Outline
 
