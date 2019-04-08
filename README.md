@@ -54,10 +54,11 @@ To participate students should either bring their own laptop or be prepared to u
 ### Day 2
 
 #### :computer: 10:00am - 12:00pm: Session 3 - Upping your R Markdown game
-  - Tables
-  - Bibliography and citation
-  - Templates
-  - Parameterized reports
+ - 03 - Up Your RMD Game:
+    - Tables
+    - Bibliography and citation
+    - Templates
+    - Parameterized reports
 
 ## Setup instructions
 
