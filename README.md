@@ -28,7 +28,9 @@ To participate students should either bring their own laptop or be prepared to u
 
 ## Outline
 
-#### :computer: 09:00 - 10:30: Session 1 - Getting started with Markdown
+### Day 1
+
+#### :computer: 12:00 - 1:30pm: Session 1 - Getting started with Markdown
   - 00 - Welcome: Getting started instructions + motivation + demo
   - 01 - Composing your prose with Markdown:
     - Text and headers
@@ -38,9 +40,9 @@ To participate students should either bring their own laptop or be prepared to u
     - The Markdown Quick Reference
     - Your turn: From plain text to embellished
 
-#### :coffee: 10:30 - 11:00: Morning break
+#### :coffee: 1:30 - 2:00pm: Break
 
-#### :computer: 11:00 - 12:00: Session 2 - Putting the R in R Markdown
+#### :computer: 2:00 - 3:00pm: Session 2 - Putting the R in R Markdown
   - 02 - Structuring your analysis with R Markdown:
     - Embedding R code -- in chunks and inline
     - Chunk and global options
@@ -48,15 +50,14 @@ To participate students should either bring their own laptop or be prepared to u
     - Output options
     - Output formats
     - Your turn: Restructure from plain R Markdown to xaringan slides or Tufte document
-  
-#### :fork_and_knife: 12:00 - 13:00: Lunch
+
+### Day 2
 
 #### :computer: 13:00 - 15:00: Session 3 - Upping your R Markdown game
   - Tables
   - Bibliography and citation
   - Templates
   - Parameterized reports
-
 
 ## Setup instructions
 
