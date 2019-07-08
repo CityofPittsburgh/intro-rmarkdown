@@ -23,7 +23,7 @@ The data come from [Kaggle.com](https://www.kaggle.com/srcole/burritos-in-san-di
 >Appropriately, an effort was launched to critique burritos across the county 
 >and make this data open to the lay burrito consumer. 
 
-```{r load-data}
+```{r load-data, echo=FALSE}
 burritos <- read_csv("../data/burritos_01022018.csv")
 ```
 
@@ -86,3 +86,6 @@ ggplot(data = burritos, mapping = aes(x = Cost, y = overall)) +
   geom_point() +
   labs(title = "Overall rating vs. cost", y = "Overall rating")
 ```
+
+
+`plot(burritos)`
